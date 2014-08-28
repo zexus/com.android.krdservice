@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	  <string name="hello">Hello World, KrdActivity!</string>
+    <string name="app_name">com.coship.krdservice</string>
+    <string name="positive">是</string>
+    <string name="negative">否</string>
+    <string name="record">录制按键</string>
+    <string name="save">保存按键序列</string>
+    <string name="input">请输入要保存的名字：</string>
+    <string name="join">播放按键</string>
+    <string name="joinstop">停止播放按键</string>
+    <string name="recordHint">是否进行按键录制？</string>
+    <string name="joinHint">是否进行按键播放？</string>
+    <string name="noexist">未找到已保存的按键序列！</string>
+    <string name="joinstopHint">是否停止按键播放？</string>
+    <string name="joincomplete">按键播放完成？</string>
+</resources>
